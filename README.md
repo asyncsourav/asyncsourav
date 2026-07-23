@@ -45,7 +45,7 @@
 
   - Fetched live price feeds and implemented **infinite scrolling** on coin lists.  
   - Added search with debouncing and performance optimizations.  
-  - [Live Demo](https://crypto-world-psi.vercel.app/) | [Source](https://github.com/sourav-357/crypto-world)
+  - [Live Demo](https://crypto-tracker-steel-mu.vercel.app/) | [Source](https://github.com/sourav-357/crypto-world)
 
 
 
