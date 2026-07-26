@@ -24,7 +24,11 @@ Currently looking for Backend Software Engineering Internship opportunities.
 
 ## Featured Projects
 
-### FYP Governance Platform | **Live:** https://project-management-system-c3ow.vercel.app | **Repository:** https://github.com/sourav-357/project-management-system
+### FYP Governance Platform 
+
+**Live:** https://project-management-system-c3ow.vercel.app 
+
+**Repository:** https://github.com/sourav-357/project-management-system
 
 **Stack:** React, Node.js, Express.js, MongoDB, Socket.io, WebRTC, Tailwind CSS, JWT, Cloudinary
 
