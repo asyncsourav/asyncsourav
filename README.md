@@ -24,11 +24,7 @@ Currently looking for Backend Software Engineering Internship opportunities.
 
 ## Featured Projects
 
-### FYP Governance Platform
-
-**Live:** https://project-management-system-c3ow.vercel.app
-
-**Repository:** https://github.com/sourav-357/project-management-system
+### FYP Governance Platform | **Live:** https://project-management-system-c3ow.vercel.app | **Repository:** https://github.com/sourav-357/project-management-system
 
 **Stack:** React, Node.js, Express.js, MongoDB, Socket.io, WebRTC, Tailwind CSS, JWT, Cloudinary
 
@@ -56,29 +52,17 @@ Currently looking for Backend Software Engineering Internship opportunities.
 
 ## Tech Stack
 
-**Languages**
+- **Languages**: Java, JavaScript, SQL, C++
 
-Java, JavaScript, SQL, C++
+- **Backend**: Node.js, Express.js, REST APIs, JWT Authentication, Refresh Token Rotation, Role-Based Access Control, Socket.io, WebRTC
 
-**Backend**
+- **Database**: MongoDB, Mongoose, PostgreSQL
 
-Node.js, Express.js, REST APIs, JWT Authentication, Refresh Token Rotation, Role-Based Access Control, Socket.io, WebRTC
+- **Frontend**: React, Vite, Tailwind CSS, Axios, Context API
 
-**Database**
+- **Security**: Helmet, bcrypt, CORS, Cookie Authentication, MongoDB Sanitization, Rate Limiting
 
-MongoDB, Mongoose, PostgreSQL
-
-**Frontend**
-
-React, Vite, Tailwind CSS, Axios, Context API
-
-**Security**
-
-Helmet, bcrypt, CORS, Cookie Authentication, MongoDB Sanitization, Rate Limiting
-
-**Tools**
-
-Git, GitHub, Postman, MongoDB Atlas, Cloudinary, Render, Vercel
+- **Tools**: Git, GitHub, Postman, MongoDB Atlas, Cloudinary, Render, Vercel
 
 ---
 
