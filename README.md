@@ -1,194 +1,88 @@
 <h1 align="center">Sourav Kumar</h1>
 
 <p align="center">
-  <strong>Backend-Oriented Full Stack Developer</strong>
-  <br>
-  Node.js • Express.js • MongoDB • React • Java
+Backend-Oriented Full Stack Developer
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sourav357">LinkedIn</a>
-  •
-  <a href="https://codolio.com/profile/sourav-kumar">Codolio</a>
-  •
-  <a href="mailto:xsouravkumar357@gmail.com">Email</a>
+<a href="https://linkedin.com/in/sourav357">LinkedIn</a> •
+<a href="https://codolio.com/profile/sourav-kumar">Codolio</a> •
+<a href="mailto:xsouravkumar357@gmail.com">Email</a>
 </p>
 
 ---
 
-# About Me
+## About
 
-I'm a Backend-Oriented Full Stack Developer and a B.Tech Computer Science student passionate about building scalable backend systems, secure authentication architectures, REST APIs, and real-time applications.
+I'm a Computer Science undergraduate interested in backend engineering and distributed systems.
 
-My primary focus is backend engineering using Node.js, Express.js, MongoDB, and Java while continuously improving my problem-solving skills through Data Structures & Algorithms.
+My primary focus is building production-oriented backend applications with secure authentication, scalable APIs, database design, and real-time communication. Alongside development, I actively practice Data Structures & Algorithms in Java.
 
-Currently preparing for Software Engineering Internship opportunities.
-
----
-
-# Tech Stack
-
-### Languages
-
-- Java
-- JavaScript
-- SQL
-- C++
-
-### Backend
-
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- Refresh Token Rotation
-- Role-Based Access Control (RBAC)
-- Socket.io
-- WebRTC Signaling
-
-### Database
-
-- MongoDB
-- Mongoose
-- PostgreSQL
-
-### Frontend
-
-- React
-- Vite
-- Tailwind CSS
-- Axios
-- Context API
-
-### Security
-
-- Helmet
-- CORS
-- bcrypt
-- Cookie Authentication
-- Input Validation
-- MongoDB Sanitization
-- Rate Limiting
-
-### Deployment & Tools
-
-- Git
-- GitHub
-- Postman
-- MongoDB Atlas
-- Cloudinary
-- Render
-- Vercel
+Currently looking for Backend Software Engineering Internship opportunities.
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## FYP Governance Platform
+### FYP Governance Platform
 
-**Production-grade academic governance platform built using the MERN stack.**
+**Live:** https://project-management-system-c3ow.vercel.app
 
-### Features
+**Repository:** https://github.com/sourav-357/project-management-system
 
-- Multi-role authentication (Student, Teacher, Admin)
-- JWT Authentication
-- Refresh Token Rotation
-- Role-Based Authorization
-- Supervisor Request Workflow
-- Milestone Management
-- Real-time Notifications
-- Socket.io Chat
-- WebRTC Video Calling
-- Audit Logging
-- File Upload Management
-- Advanced MongoDB Indexing
-- Concurrency-safe Supervisor Assignment
-- Pagination
-- Filtering
-- Search
-- Secure REST APIs
-- Professional Documentation
-- Deployed on Vercel + Render
+**Stack:** React, Node.js, Express.js, MongoDB, Socket.io, WebRTC, Tailwind CSS, JWT, Cloudinary
 
-**Repository**
+- Built a production-oriented academic governance platform supporting Students, Teachers, and Administrators with role-based authorization, refresh token rotation, supervisor allocation workflows, project milestones, notifications, audit logs, and complete project lifecycle management.
 
-https://github.com/sourav-357/project-management-system
+- Designed the backend using layered architecture with service abstraction, centralized validation, standardized API responses, MongoDB indexing strategies, pagination, filtering, searching, and concurrency-safe supervisor assignment.
 
-**Live Demo**
-
-https://project-management-system-c3ow.vercel.app
+- Implemented real-time messaging, notifications, and one-to-one WebRTC video calling using Socket.io. Deployed the application on Vercel and Render with production configuration.
 
 ---
 
-## EduTech LMS Platform
+### EduTech LMS Platform
 
-**Production-style Learning Management System built with the MERN stack.**
+**Live:** https://edutech-lms-platform-steel.vercel.app
 
-### Features
+**Repository:** https://github.com/sourav-357/edutech-lms-platform
 
-- Authentication & Authorization
-- Course Management
-- Student Dashboard
-- Admin Dashboard
-- Google Gemini AI Integration
-- Stripe Payment Integration
-- Quiz Generation
-- Cloudinary Media Storage
-- Analytics Dashboard
-- REST APIs
+**Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS, Google Gemini AI, Stripe, Cloudinary
 
-**Repository**
+- Developed a Learning Management System supporting authentication, RBAC, instructor and student dashboards, secure payment integration, AI-assisted learning, and media management.
 
-https://github.com/sourav-357/edutech-lms-platform
-
-**Live Demo**
-
-https://edutech-lms-platform-steel.vercel.app
+- Implemented REST APIs, reusable frontend components, centralized middleware, protected routes, analytics dashboards, and responsive UI following production-oriented project structure.
 
 ---
 
-## NASA Mission Control
+## Tech Stack
 
-Mission scheduling platform built using React, Node.js and MongoDB.
+**Languages**
 
-### Features
+Java, JavaScript, SQL, C++
 
-- NASA Kepler Dataset Processing
-- CSV Data Pipeline
-- Habitable Planet Discovery
-- Mission Scheduling
-- CRUD APIs
-- Data Validation
-- MongoDB Integration
+**Backend**
 
-**Repository**
+Node.js, Express.js, REST APIs, JWT Authentication, Refresh Token Rotation, Role-Based Access Control, Socket.io, WebRTC
 
-https://github.com/sourav-357/nasa-launch-control
+**Database**
 
----
+MongoDB, Mongoose, PostgreSQL
 
-# Problem Solving
+**Frontend**
 
-- Java
-- LeetCode
-- GeeksforGeeks
-- HackerRank
+React, Vite, Tailwind CSS, Axios, Context API
 
-Consistently solving Data Structures & Algorithms problems for Software Engineering interview preparation.
+**Security**
+
+Helmet, bcrypt, CORS, Cookie Authentication, MongoDB Sanitization, Rate Limiting
+
+**Tools**
+
+Git, GitHub, Postman, MongoDB Atlas, Cloudinary, Render, Vercel
 
 ---
 
-# Current Focus
-
-- Advanced Data Structures & Algorithms
-- SQL
-- PostgreSQL
-- Backend Engineering
-- Scalable System Design
-
----
-
-# GitHub Stats
+## GitHub Statistics
 
 <p align="center">
 
@@ -200,14 +94,6 @@ Consistently solving Data Structures & Algorithms problems for Software Engineer
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
-
----
-
-# Connect
-
-- LinkedIn → https://linkedin.com/in/sourav357
-- Codolio → https://codolio.com/profile/sourav-kumar
-- Email → xsouravkumar357@gmail.com
