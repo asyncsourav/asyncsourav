@@ -5,7 +5,7 @@ Backend-Oriented Full Stack Developer
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/sourav357">LinkedIn</a> •
+<a href="www.linkedin.com/in/souravkumar357">LinkedIn</a> •
 <a href="https://codolio.com/profile/sourav-kumar">Codolio</a> •
 <a href="mailto:xsouravkumar357@gmail.com">Email</a>
 </p>
