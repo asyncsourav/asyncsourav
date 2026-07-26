@@ -1,74 +1,213 @@
+<h1 align="center">Sourav Kumar</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d4ff&height=300&section=header&text=Sourav%20Kumar&fontSize=72&fontColor=ffffff&textAlignY=35&desc=Backend%20Oriented%20Full%20Stack%20Developer&descSize=18&descAlignY=65&descColor=a0c4ff" alt="Sourav Kumar - Header"/>
+  <strong>Backend-Oriented Full Stack Developer</strong>
+  <br>
+  Node.js • Express.js • MongoDB • React • Java
 </p>
 
-## About Me
+<p align="center">
+  <a href="https://linkedin.com/in/sourav357">LinkedIn</a>
+  •
+  <a href="https://codolio.com/profile/sourav-kumar">Codolio</a>
+  •
+  <a href="mailto:xsouravkumar357@gmail.com">Email</a>
+</p>
 
-**Backend Engineer** with 3+ years of experience building scalable APIs and systems. I’m passionate about clean architecture and performance. Currently seeking a Software Engineering Internship for Summer 2026. 
+---
 
-## 🛠️ Skills & Tech Stack
+# About Me
 
-- **Languages:** Java, JavaScript/TypeScript, Python, C/C++  
-- **Backend:** Node.js, Express.js, REST API design, MVC, Microservices  
-- **Databases:** MongoDB, PostgreSQL, Redis (caching)  
-- **DevOps & Tools:** Docker, Git, GitHub Actions, CI/CD, Vercel  
-- **Other:** React, Tailwind CSS, Postman, Jest
+I'm a Backend-Oriented Full Stack Developer and a B.Tech Computer Science student passionate about building scalable backend systems, secure authentication architectures, REST APIs, and real-time applications.
 
-## 🚀 Featured Projects
+My primary focus is backend engineering using Node.js, Express.js, MongoDB, and Java while continuously improving my problem-solving skills through Data Structures & Algorithms.
 
-- **🎓 EduTech LMS Platform:** A production-ready Learning Management System with AI tutoring and analytics.
-*Tech:* Node.js, Express, MongoDB, React, Tailwind, Razorpay.
+Currently preparing for Software Engineering Internship opportunities.
 
-  - Implemented 25+ REST APIs (auth, courses, payments, AI chat) with **schema-level RBAC**.  
-  - Integrated **Razorpay** for secure payments and refunds.  
-  - Modular architecture with centralized error handling and logging.  
-  - [Live Demo](https://edutech-lms-platform-steel.vercel.app/) | [Source](https://github.com/sourav-357/edutech-lms-platform)
+---
 
-- **🤝 DevTinder:** A full-stack networking app for developers (like “LinkedIn meets Tinder”).
-*Tech:* React, Node.js, Express, MongoDB, JWT.
+# Tech Stack
 
-  - Developed 15+ REST APIs for user auth, profiles, connections, and messaging.  
-  - Added real-time notifications and advanced profile matching.  
-  - Secure JWT + httpOnly cookie authentication.  
-  - [Live Demo](https://dev-tinder-lake.vercel.app/) | [Source](https://github.com/sourav-357/Dev-Tinder)
+### Languages
 
-- **🛸 NASA Mission Control:** Dashboard for NASA’s Kepler data with a CSV processing pipeline. 
-*Tech:* React, Node.js, Express, MongoDB.
- 
-  - Built data ingestion with validation and a **habitable planet filter** algorithm.  
-  - Created CRUD APIs for mission data and a real-time frontend dashboard.  
-  - [Source](https://github.com/sourav-357/nasa-launch-control) (No live link)
+- Java
+- JavaScript
+- SQL
+- C++
 
-- **📈 Crypto World Dashboard:** A real-time cryptocurrency tracker. 
-*Tech:* React, Tailwind CSS, REST APIs.
+### Backend
 
-  - Fetched live price feeds and implemented **infinite scrolling** on coin lists.  
-  - Added search with debouncing and performance optimizations.  
-  - [Live Demo](https://crypto-tracker-steel-mu.vercel.app/) | [Source](https://github.com/sourav-357/crypto-world)
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- Refresh Token Rotation
+- Role-Based Access Control (RBAC)
+- Socket.io
+- WebRTC Signaling
 
+### Database
 
+- MongoDB
+- Mongoose
+- PostgreSQL
 
+### Frontend
 
-## 💼 Experience
+- React
+- Vite
+- Tailwind CSS
+- Axios
+- Context API
 
-**Frontend Developer Intern**, Edunet Foundation (Aug – Sep 2025)  
-- Designed and deployed a responsive travel booking website.  
-- Built reusable React/Tailwind components with a focus on accessibility and performance.
+### Security
 
-**Full-Stack Trainee**, iHub DivyaSampark (IIT Roorkee) (Oct 2024 – Jan 2025)  
-- Developed 12+ REST APIs using Node.js and MongoDB for a tech mentorship platform.  
-- Implemented user authentication (JWT, RBAC) and data validation.
+- Helmet
+- CORS
+- bcrypt
+- Cookie Authentication
+- Input Validation
+- MongoDB Sanitization
+- Rate Limiting
 
-## 🌱 Currently Learning & Interests
+### Deployment & Tools
 
-- **Core Backend:** Deepening knowledge of **PostgreSQL** internals, advanced Node.js patterns.  
-- **Security:** Studying OWASP Top 10, JWT/OAuth2 flows, input validation best practices.  
-- **System Design:** Reading up on microservices and scalable architectures.  
-- **Competitive Programming:** Solving LeetCode problems daily (300+ solved).
+- Git
+- GitHub
+- Postman
+- MongoDB Atlas
+- Cloudinary
+- Render
+- Vercel
 
-## 📫 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sourav357-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav357)  
-[![Email](https://img.shields.io/badge/Email-xsouravkumar357%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xsouravkumar357@gmail.com)
+# Featured Projects
 
+## FYP Governance Platform
+
+**Production-grade academic governance platform built using the MERN stack.**
+
+### Features
+
+- Multi-role authentication (Student, Teacher, Admin)
+- JWT Authentication
+- Refresh Token Rotation
+- Role-Based Authorization
+- Supervisor Request Workflow
+- Milestone Management
+- Real-time Notifications
+- Socket.io Chat
+- WebRTC Video Calling
+- Audit Logging
+- File Upload Management
+- Advanced MongoDB Indexing
+- Concurrency-safe Supervisor Assignment
+- Pagination
+- Filtering
+- Search
+- Secure REST APIs
+- Professional Documentation
+- Deployed on Vercel + Render
+
+**Repository**
+
+https://github.com/sourav-357/project-management-system
+
+**Live Demo**
+
+https://project-management-system-c3ow.vercel.app
+
+---
+
+## EduTech LMS Platform
+
+**Production-style Learning Management System built with the MERN stack.**
+
+### Features
+
+- Authentication & Authorization
+- Course Management
+- Student Dashboard
+- Admin Dashboard
+- Google Gemini AI Integration
+- Stripe Payment Integration
+- Quiz Generation
+- Cloudinary Media Storage
+- Analytics Dashboard
+- REST APIs
+
+**Repository**
+
+https://github.com/sourav-357/edutech-lms-platform
+
+**Live Demo**
+
+https://edutech-lms-platform-steel.vercel.app
+
+---
+
+## NASA Mission Control
+
+Mission scheduling platform built using React, Node.js and MongoDB.
+
+### Features
+
+- NASA Kepler Dataset Processing
+- CSV Data Pipeline
+- Habitable Planet Discovery
+- Mission Scheduling
+- CRUD APIs
+- Data Validation
+- MongoDB Integration
+
+**Repository**
+
+https://github.com/sourav-357/nasa-launch-control
+
+---
+
+# Problem Solving
+
+- Java
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+
+Consistently solving Data Structures & Algorithms problems for Software Engineering interview preparation.
+
+---
+
+# Current Focus
+
+- Advanced Data Structures & Algorithms
+- SQL
+- PostgreSQL
+- Backend Engineering
+- Scalable System Design
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sourav-357&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-357&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-357&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Connect
+
+- LinkedIn → https://linkedin.com/in/sourav357
+- Codolio → https://codolio.com/profile/sourav-kumar
+- Email → xsouravkumar357@gmail.com
