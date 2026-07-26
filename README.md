@@ -57,15 +57,10 @@ Currently looking for Backend Software Engineering Internship opportunities.
 ## Tech Stack
 
 - **Languages**: Java, JavaScript, SQL, C++
-
 - **Backend**: Node.js, Express.js, REST APIs, JWT Authentication, Refresh Token Rotation, Role-Based Access Control, Socket.io, WebRTC
-
 - **Database**: MongoDB, Mongoose, PostgreSQL
-
 - **Frontend**: React, Vite, Tailwind CSS, Axios, Context API
-
 - **Security**: Helmet, bcrypt, CORS, Cookie Authentication, MongoDB Sanitization, Rate Limiting
-
 - **Tools**: Git, GitHub, Postman, MongoDB Atlas, Cloudinary, Render, Vercel
 
 ---
