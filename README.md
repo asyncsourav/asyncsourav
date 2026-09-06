@@ -18,15 +18,9 @@
 
 I'm a Computer Science Engineering student focused on backend development and building systems around real engineering problems.
 
-I started with Node.js and Express and am currently going deeper into Java and Spring Boot, with particular interest in concurrency, security, data consistency, caching, and system design.
-
-I've built full-stack applications involving REST APIs, RBAC, JWT authentication, refresh-token rotation, MongoDB, real-time communication, WebRTC, and Stripe payments.
+I started with Node.js and Express and am currently going deeper into Java and Spring Boot, with particular interest in concurrency, security, data consistency, caching, and system design. I've built full-stack applications involving REST APIs, RBAC, JWT authentication, refresh-token rotation, MongoDB, real-time communication, WebRTC, and Stripe payments.
 
 Alongside development, I actively practice Data Structures & Algorithms in Java and have solved **550+ problems** across LeetCode, GeeksforGeeks, HackerRank, CodeChef, and Codeforces.
-
-**SIH 2025 Runner-Up**
-
-I'm currently focused on building deeper backend systems with Java and Spring Boot and looking for software engineering internship opportunities.
 
 ---
 
