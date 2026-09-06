@@ -47,7 +47,7 @@ The project is being built to explore how a backend behaves under concurrent req
 
 ### FYP Governance & Collaboration Platform
 
-**React · Node.js · Express.js · MongoDB · Socket.io · WebRTC · JWT**
+**Tech stack:** React · Node.js · Express.js · MongoDB · Socket.io · WebRTC · JWT
 
 A full-stack academic governance and collaboration platform for Students, Teachers, and Administrators.
 
@@ -63,7 +63,7 @@ A full-stack academic governance and collaboration platform for Students, Teache
 
 ### EduTech LMS Platform
 
-**React · Node.js · Express.js · MongoDB · Stripe · Gemini AI · Cloudinary**
+**Tech stack:** React · Node.js · Express.js · MongoDB · Stripe · Gemini AI · Cloudinary
 
 A full-stack Learning Management System supporting course delivery, enrollment, payments, quizzes, analytics, and AI-assisted learning.
 
@@ -80,15 +80,10 @@ A full-stack Learning Management System supporting course delivery, enrollment, 
 ## Technical Skills
 
 - Languages: Java · JavaScript · SQL · C++
-
 - Backend: Java · Spring Boot · Node.js · Express.js · REST APIs · JWT · RBAC · Socket.io · WebRTC
-
 - Databases: PostgreSQL · MongoDB · Mongoose
-
 - Frontend: React · Vite · Tailwind CSS · Axios · Context API
-
 - Security: Spring Security · JWT Authentication · Refresh Token Rotation · bcrypt · Helmet · CORS · Rate Limiting · MongoDB Sanitization · httpOnly Cookies
-
 - Tools & Platforms: Git · GitHub · Postman · MongoDB Atlas · Render · Vercel · Cloudinary
 
 ---
