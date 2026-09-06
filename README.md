@@ -26,12 +26,12 @@ Alongside development, I actively practice Data Structures & Algorithms in Java 
 
 ## Technical Skills
 
-- Languages: Java · JavaScript · SQL · C++
-- Backend: Java · Spring Boot · Node.js · Express.js · REST APIs · JWT · RBAC · Socket.io · WebRTC
-- Databases: PostgreSQL · MongoDB · Mongoose
-- Frontend: React · Vite · Tailwind CSS · Axios · Context API
-- Security: Spring Security · JWT Authentication · Refresh Token Rotation · bcrypt · Helmet · CORS · Rate Limiting · MongoDB Sanitization · httpOnly Cookies
-- Tools & Platforms: Git · GitHub · Postman · MongoDB Atlas · Render · Vercel · Cloudinary
+- Languages: Java, JavaScript, SQL, C++
+- Backend: Java, Spring Boot, Node.js, Express.js, REST APIs, JWT, RBAC, Socket.io, WebRTC
+- Databases: PostgreSQL, MongoDB, Mongoose
+- Frontend: React, Vite, Tailwind CSS, Axios, Context API
+- Security: Spring Security, JWT Authentication, Refresh Token Rotation, bcrypt, Helmet, CORS, Rate Limiting, MongoDB Sanitization, httpOnly Cookies
+- Tools & Platforms: Git, GitHub, Postman, MongoDB Atlas, Render, Vercel, Cloudinary
 
 ---
 
@@ -58,9 +58,7 @@ I'm particularly interested in backend problems involving:
 
 ## Currently Open To
 
-**Software Engineering Internships · Backend Engineering Internships**
-
-I'm interested in opportunities where I can contribute to real products, work with experienced engineers, and grow through solving practical backend engineering problems.
+**Software Engineering Internships, Backend Engineering Internships.** I'm interested in opportunities where I can contribute to real products, work with experienced engineers, and grow through solving practical backend engineering problems.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asyncsourav">LinkedIn</a>
