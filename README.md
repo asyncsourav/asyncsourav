@@ -79,29 +79,21 @@ A full-stack Learning Management System supporting course delivery, enrollment, 
 
 ## Technical Skills
 
-### Languages
-Java · JavaScript · SQL · C++
+- Languages: Java · JavaScript · SQL · C++
 
-### Backend
-Java · Spring Boot · Node.js · Express.js · REST APIs · JWT · RBAC · Socket.io · WebRTC
+- Backend: Java · Spring Boot · Node.js · Express.js · REST APIs · JWT · RBAC · Socket.io · WebRTC
 
-### Databases
-PostgreSQL · MongoDB · Mongoose
+- Databases: PostgreSQL · MongoDB · Mongoose
 
-### Frontend
-React · Vite · Tailwind CSS · Axios · Context API
+- Frontend: React · Vite · Tailwind CSS · Axios · Context API
 
-### Security
-Spring Security · JWT Authentication · Refresh Token Rotation · bcrypt · Helmet · CORS · Rate Limiting · MongoDB Sanitization · httpOnly Cookies
+- Security: Spring Security · JWT Authentication · Refresh Token Rotation · bcrypt · Helmet · CORS · Rate Limiting · MongoDB Sanitization · httpOnly Cookies
 
-### Tools & Platforms
-Git · GitHub · Postman · MongoDB Atlas · Render · Vercel · Cloudinary
+- Tools & Platforms: Git · GitHub · Postman · MongoDB Atlas · Render · Vercel · Cloudinary
 
 ---
 
-## Problem Solving
-
-**550+ DSA problems solved**, primarily in Java.
+## Problem Solving **550+ DSA problems solved**, primarily in Java.
 
 I practice problems across **LeetCode, GeeksforGeeks, HackerRank, CodeChef, and Codeforces**, with a focus on building strong problem-solving fundamentals and improving speed through regular contests and revision.
 
