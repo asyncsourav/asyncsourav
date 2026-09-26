@@ -43,19 +43,6 @@ I practice problems across **LeetCode, GeeksforGeeks, HackerRank, CodeChef, and 
 
 ---
 
-## Engineering Interests
-
-I'm particularly interested in backend problems involving:
-
-- **Concurrency & data consistency**
-- **Authentication, authorization & application security**
-- **Caching & rate limiting**
-- **Real-time systems & WebSocket-based communication**
-- **Database design & query performance**
-- **Distributed systems & system design**
-
----
-
 ## Currently Open To
 
 **Software Engineering Internships, Backend Engineering Internships.** I'm interested in opportunities where I can contribute to real products, work with experienced engineers, and grow through solving practical backend engineering problems.
