@@ -44,8 +44,8 @@ I practice problems across **LeetCode, GeeksforGeeks, HackerRank, CodeChef, and 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonam-2764&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=sonam-2764&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asyncsourav&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=asyncsourav&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
