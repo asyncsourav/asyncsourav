@@ -43,13 +43,6 @@ I practice problems across **LeetCode, GeeksforGeeks, HackerRank, CodeChef, and 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asyncsourav&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=asyncsourav&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ## Currently Open To
 
 **Software Engineering Internships, Backend Engineering Internships.** I'm interested in opportunities where I can contribute to real products, work with experienced engineers, and grow through solving practical backend engineering problems.
