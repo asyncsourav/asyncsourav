@@ -1,14 +1,11 @@
 <h1 align="center">Sourav Kumar</h1>
 
-<p align="center">
-  <b>Backend-Focused Software Developer</b>
-</p>
+<p align="center"><b>Backend-Focused Software Developer · Java · Spring Boot</b></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/asyncsourav">LinkedIn</a>
-  •
-  <a href="https://codolio.com/profile/asyncsourav">Codolio</a>
-  •
+  <a href="https://www.linkedin.com/in/asyncsourav">LinkedIn</a> •
+  <a href="https://codolio.com/profile/asyncsourav">Codolio</a> •
+  <a href="https://leetcode.com/u/asyncsourav/">LeetCode</a> •
   <a href="mailto:xsouravkumar357@gmail.com">Email</a>
 </p>
 
@@ -16,41 +13,38 @@
 
 ## About
 
-I'm a Computer Science Engineering student focused on backend development and building systems around real engineering problems.
+B.Tech CSE student (2028) building backend systems around real engineering problems: concurrency, security, caching and real-time updates. I started with Node.js and Express and now work mainly in Java and Spring Boot.
 
-I started with Node.js and Express and am currently going deeper into Java and Spring Boot, with particular interest in concurrency, security, data consistency, caching, and system design. I've built full-stack applications involving REST APIs, RBAC, JWT authentication, refresh-token rotation, MongoDB, real-time communication, WebRTC, and Stripe payments.
+## Featured Project: [QuickTix](https://github.com/asyncsourav/quicktix)
 
-Alongside development, I actively practice Data Structures & Algorithms in Java and have solved **550+ problems** across LeetCode, GeeksforGeeks, HackerRank, CodeChef, and Codeforces.
+A high-concurrency event-ticketing platform ([live](https://quicktix-weld.vercel.app/)).
 
----
+- Optimistic locking: 10 simultaneous requests for one seat produce exactly one booking and nine conflicts
+- Redis cache-aside: median read latency 22.1 ms to 5.4 ms (~75%)
+- Bucket4j rate limiting: 99.5% of 1,000 rapid-fire requests blocked, with a circuit breaker that fails open if Redis is down
+- STOMP WebSockets: 1,500/1,500 live seat updates delivered to 50 clients, median 23.8 ms
+- Dual rotating JWT refresh tokens with reuse detection, Docker, GitHub Actions CI, 39 automated tests, k6 load tests
 
-## Technical Skills
+## Other Projects
 
-- Languages: Java, JavaScript, SQL, C++
-- Backend: Java, Spring Boot, Node.js, Express.js, REST APIs, JWT, RBAC, Socket.io, WebRTC
-- Databases: PostgreSQL, MongoDB, Mongoose
-- Frontend: React, Vite, Tailwind CSS, Axios, Context API
-- Security: Spring Security, JWT Authentication, Refresh Token Rotation, bcrypt, Helmet, CORS, Rate Limiting, MongoDB Sanitization, httpOnly Cookies
-- Tools & Platforms: Git, GitHub, Postman, MongoDB Atlas, Render, Vercel, Cloudinary
+- **[EduTech LMS](https://github.com/asyncsourav/edutech-lms-platform)**: MERN learning platform with Stripe Checkout, Gemini-powered course search and quiz generation, admin analytics, and role-based access control
+- **[DevTinder](https://github.com/asyncsourav/dev-tinder)** and **NASA Mission Control**: full-stack projects built while following courses, to learn authentication flows, REST design and React
 
----
+## Tech Stack
 
-## Problem Solving **550+ DSA problems solved**, primarily in Java.
+- **Languages:** Java, JavaScript, SQL, C, C++
+- **Backend:** Spring Boot, Spring Security, JPA/Hibernate, Node.js, Express.js, WebSockets (STOMP)
+- **Data:** PostgreSQL, Redis, MongoDB
+- **Testing & DevOps:** JUnit 5, Mockito, Testcontainers, JaCoCo, k6, Docker, GitHub Actions
+- **Security:** JWT rotation with reuse detection, bcrypt, Bucket4j, Resilience4j
+- **Frontend & Tools:** React, Vite, Tailwind CSS, Git, Postman, Render, Vercel
 
-I practice problems across **LeetCode, GeeksforGeeks, HackerRank, CodeChef, and Codeforces**, with a focus on building strong problem-solving fundamentals and improving speed through regular contests and revision.
+## Problem Solving
+
+600+ problems solved, primarily in Java, across LeetCode, GeeksforGeeks, HackerRank, CodeChef and Codeforces. Peak LeetCode contest rating 1686, 13 contests.
 
 [View my DSA profile →](https://codolio.com/profile/asyncsourav)
 
----
+## Open To
 
-## Currently Open To
-
-**Software Engineering Internships, Backend Engineering Internships.** I'm interested in opportunities where I can contribute to real products, work with experienced engineers, and grow through solving practical backend engineering problems.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/asyncsourav">LinkedIn</a>
-  •
-  <a href="https://codolio.com/profile/asyncsourav">Codolio</a>
-  •
-  <a href="mailto:xsouravkumar357@gmail.com">Email</a>
-</p>
+Software Engineering and Backend Engineering internships.
